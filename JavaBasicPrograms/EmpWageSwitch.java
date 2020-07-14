@@ -1,7 +1,7 @@
 /*
 this class checks whether employee is present or not
 */
-public class empWageSwitch
+public class EmpWageSwitch
 {
 	//private static final int IS_PART_TIME=2;
 	//private static final int IS_FULL_TIME=1;
